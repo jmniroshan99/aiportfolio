@@ -1,0 +1,2 @@
+# Legacy route remains available. Unknown paths return the actual 404 document.
+/* /404.html 404

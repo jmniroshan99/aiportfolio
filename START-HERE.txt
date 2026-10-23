@@ -1,0 +1,23 @@
+JM NIROSHAN — AI FULL STACK DEVELOPER PORTFOLIO
+
+1. Extract the entire ZIP into a folder.
+2. Install Node.js 22.12 or newer if needed.
+3. Windows: double-click START-WINDOWS.bat.
+4. Open http://localhost:4173 after the terminal says “Portfolio ready”.
+
+The included build needs no npm install to preview.
+Do not open dist/index.html directly with file://.
+
+Edit the source:
+  npm ci
+  npm run dev
+
+Rebuild after changes:
+  npm run check
+
+Deploy: upload the dist folder contents to a static website host.
+README.md includes detailed setup, editing, deployment, and contact options.
+
+ZIP එක extract කර START-WINDOWS.bat විවෘත කරන්න.
+Node.js 22.12 හෝ ඊට අලුත් version එකක් අවශ්‍යයි.
+Contact form එක draft එකක් පමණක් සකස් කරයි. Visitor විසින් එය send කළ යුතුයි.
